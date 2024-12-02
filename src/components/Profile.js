@@ -27,7 +27,7 @@ const Profile = () => {
           source={{
             uri: 'https://avatar.iran.liara.run/public/8',
           }}
-          style={{ width: 100, height: 100, borderRadius: '100%' }}
+          style={{ width: 100, height: 100, borderRadius: 50 }}
         />
         <Text
           style={{
